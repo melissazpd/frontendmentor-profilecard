@@ -2,6 +2,21 @@ body {
     background: #19A2AE;
     display: flex;
     justify-content: center;
+
+    background-image: 
+        url(images/bg-pattern-top.svg),
+        url(images/bg-pattern-bottom.svg);
+
+    background-position:
+        top -475px left -275px,
+        bottom -550px right -250px;
+
+    background-repeat:
+        no-repeat,
+        no-repeat;
+    background-attachment:
+        fixed,
+        fixed;
 }
 
 .centered {
@@ -51,18 +66,6 @@ body {
 .profile_info {
     line-height: 10px;
     padding-bottom: .75px;
-}
-
-.topcircle {
-    position: fixed;
-    top: -515px;
-    left: -275px;
-}
-
-.bottomcircle {
-    position: fixed;
-    bottom: -615px;
-    right: -250px;
 }
 
 .stats {
