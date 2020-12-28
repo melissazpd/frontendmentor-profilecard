@@ -12,12 +12,16 @@ The designs were created to the following widths:
 ### Primary
 
 Dark cyan: hsl(185, 75%, 39%)
+Dark cyan: #19A2AE
 Very dark desaturated blue: hsl(229, 23%, 23%)
+Very dark desaturated blue: #2D3248
 Dark grayish blue: hsl(227, 10%, 46%)
+Dark grayish blue: #6A6F81
 
 ### Neutral
 
 Dark gray: hsl(0, 0%, 59%)
+Dark gray: #969696
 
 ## Typography
 
